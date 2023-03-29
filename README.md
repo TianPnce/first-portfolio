@@ -21,7 +21,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Deployment
-
+https://tianpnce.github.io/first-portfolio/
 
 ## Note
 Making a wireframe on how everything was going to look and what goes where really helped and speed my process up faster, so thanks to Joe for showing us that!
